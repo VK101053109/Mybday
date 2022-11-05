@@ -1,0 +1,12 @@
+#lf{
+    text-align:right;
+}
+#pic{
+    text-align: center;
+}
+#lpfb{
+    text-align: left;
+}
+html{
+    background:linear-gradient(blue 30%,red 80%,black 100%);
+}
